@@ -1,3 +1,5 @@
+This is a KegScale system to measure the volume of 5 gallon Cornelius kegs inside of a keezer or kegerator. This project uses Arduino compatible microcontroller, MQTT and Node-Red.
+
 KegScale.ino - is the c++ code for the micro-controller.  I used an ESP32 DevBoard.
 KegScaleObj.cpp - is the c++ code for the KegScale object.  One of these are instantiated for each scale in your system.
 KegScaleObj.h - is the complementary H file for the KegScaleObj.cpp file
